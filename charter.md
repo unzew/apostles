@@ -12,7 +12,7 @@ The Order of the Apostles strives to lead, inform, protect, and serve the law-ab
 
 In the early years, those adventurers who would become the founding members of the Apostles, began to draw people together to instruct the young, exchange information and strengthen the bonds of community. During the period of time known to some as the Red Winter War, when community resources were pushed to the breaking point, it was quickly realized that without strong leadership the invading forces of the Gorbesh would quickly overcome the defenders of Elanthia. The first members of the Apostles answered this need by organizing patrols, rally points and leading the citizens of Elanthia in repulsing the aggressors.
 
-Once the war had come to an end, it became apparent that the need for leadership did not end in the absence of a common enemy. Quite the opposite became evident over time and led to the formal founding of an Order meant to fill this need. The Apostles stand ready to provide leadership in times of war; while continuing to gather the young and teach them the skills needed to thrive in times of peace.
+Once the war had come to an end, it became apparent that the need for leadership did not end in the absence of a common enemy. Quite the opposite became evident over time and led to the formal founding of an order meant to fill this need. The Apostles stand ready to provide leadership in times of war; while continuing to gather the young and teach them the skills needed to thrive in times of peace.
 
 ## The Revival
 
@@ -26,10 +26,10 @@ While the leadership of the Order is most often felt during times of war, peacet
 
 ## Goals of the Order
 
-1. The Apostles will educate and train its members in an effort to assist them in realizing their true potential. Members are then encouraged to share their knowledge and experience with other citizens of Elanthia.
-2. The Apostles will develop an exceptional information network and provide it to the public.
-3. Individual members of the Apostles will set strong moral values and encourage others to uphold them as well.
-4. Members of the Apostles will commit themselves to the organization of citizens in times of conflict.
+1. Apostles will dedicate themselves to the education and training of their members, so that each member can realize their true potential, through the sharing of knowledge and experiences.
+2. Apostles will also dedicate themselves to providing exceptional information with the Elanthian public.
+3. Apostles will be an example to those around us through our strong moral values and will encourage others to do so as well.
+4. Apostles will work with Elanthian citizens towards neutralizing any threat against Elanthia.
 5. The Apostles will work together with Elanthian citizens towards neutralizing any threat against Elanthia as a whole.
 
 ## Coat of Arms/Order Crest
@@ -48,32 +48,11 @@ Through the use of good deeds, friendship and conducting oneself in an honorable
 
 Whether it's dragging, raising, helping equip a young adventurer or giving an old adventurer a place to be needed, healing, hunting, sharing knowledge, or just being a friend when you need one... We're Apostles, it's what we do.
 
-## Goals of the Order
-
-1. Apostles will dedicate themselves to the Education and Training of other members, so that each member can realize their true potential, through the sharing of knowledge and experiences.
-2. Apostles will also dedicate themselves to providing exceptional information with the Elanthian public.
-3. Apostles will be an example to those around us through our strong moral values and will encourage others to do so as well.
-4. Apostles will work with Elanthian citizens towards neutralizing any threat against Elanthia.
-
-## Coat of Arms/Order Crest
-
-The crest of the Apostles, two swords crossing behind a shield, stands as our symbol of leadership and strength. The shield represents the defense of Elanthia. The white in the body of the shield symbolizes goodness and purity. The thirteen red stars in the field of shield are placed for remembrance of those whose lives poured out on the field of battle defending Elanthia and her gods and goddesses. The two crossed swords characterize wisdom and purpose; that which guide the strike of a weapon. The shield and sword mounted on display declare the readiness and vigilance of an Apostle member.
-
-## Membership Badge
-
-Apostle Members wear the Apostle's Pauldron. The pauldron depicts the Apostles crest: two swords crossing under a white and red shield. The pauldron is worn to state membership within the Apostles and support for the community of Elanthia.
-
-## Reason for Founding
-
-In the early years, those adventurers who would become the founding members of the Apostles, began to draw people together to instruct the young, exchange information and strengthen the bonds of community. During the period of time known to some as the Red Winter War, when community resources were pushed to the breaking point, it was quickly realized that without strong leadership the invading forces of the Gorbesh would quickly overcome the defenders of Elanthia. The first members of the Apostles answered this need by organizing patrols, rally points and leading the citizens of Elanthia in repulsing the aggressors.
-
-Once the war had come to an end, it became apparent that the need for leadership did not end in the absence of a common enemy. Quite the opposite became evident over time and led to the formal founding of an Order meant to fill this need. The Apostles stand ready to provide leadership in times of war; while continuing to gather the young and teach them the skills needed to thrive in times of peace.
-
 # The Official By-Laws
 
 ## I. Rules
 
-1. All members are required to attend a minimum of two official activity per month and one meeting per month. Members will be provided with a calendar of events, including but are not limited to:
+1. All members are required to attend the General member's meeting and at a minimum two official activities per month. If a member is unable to attend the General member's meeting, they must notify an officer or council member prior to the meeting. Official activities include but are not limited to:
   * a. The General members meetings
   * b. Subdivisions meetings
   * c. Group training sessions
@@ -112,13 +91,13 @@ Members of the Order of the Apostles are members for life. However, the followin
 
 ### 2. Meetings Etiquette
 
-Once a meeting is called to order, all actions and talking should be stopped. Whispers are permissible. Only those acknowledged by the person in charge of the meeting should be speaking. Council lead may call for order and ask for silence and raising of hands if needed.
+Once a meeting is called to order, all actions and talking should be stopped. Whispers are permissible. Only those acknowledged by the person in charge of the meeting should be speaking. The meeting facilitator may call for order and ask for silence and raising of hands if needed.
 
 ### 3. Council Meetings
 
-The Order is required to hold an official council meeting every two weeks per order of the provincial government. These meetings will take place on the first and third Thursdays of each month. Meetings will begin with a call to order by the Speaker, Council Lead, or assigned representative, after which will follow petitions from the Vice Speaker, Treasurer, Council members, Subdivisions, and finally Members, in that order. Immediately following the reading of petitions, all non-council members must vacate the council area to allow for discussion and voting by the council. All discussions and interactions made in the council meeting between all officers and council members will remain private from all non council members in and out of character.
+The Order is required to hold an official council meeting every two weeks per order of the provincial government. These meetings will take place on the first and third Thursdays of each month. Meetings will begin with a call to order by the Speaker, Council Lead, or assigned representative, after which will follow petitions from the Vice Speaker, Treasurer, council members, and finally members, in that order. Immediately following the reading of petitions, all non-council members must vacate the council area to allow for discussion and voting by the council. All discussions and interactions made in the council meeting between all officers and council members will remain private from all non-council members in and out of character.
 
-A council meeting will be declared official when convened in the council chambers with at least a majority (minimum 3) of its members present. Council meetings will be held in private. Council Meetings will generally be open to Officers and Council, though at the request of the Council, Officers may be asked to step out of the room to facilitate open discussion (and may return as soon as closed discussion is over). Officers are not allowed to participate in official votes. Council votes will be open and use a yes, no, or abstain vote.  In certain cases, the Council may have a blind vote that keeps each members vote secret. A neutral party will need to be there to accept and tally the results of that vote. Motions to be voted on in the council may be brought forth by any council member or officer. All motions put forward on the floor of the council chamber will be announced in the room directly outside the door of the council chamber, when people are present to hear the announcement. All voting results will be announced in the same manner.
+A council meeting will be declared official when convened in the council chambers with at least a majority (minimum 3) of its members present. Council meetings will be held in private. Council meetings will generally be open to officers and council, though at the request of the council, officers may be asked to step out of the room to facilitate open discussion (and may return as soon as closed discussion is over). Officers are not allowed to participate in official votes. Council votes will be open and use a yes, no, or abstain vote.  In certain cases, the Council may have a blind vote that keeps each members vote secret. A neutral party will need to be there to accept and tally the results of that vote. Motions to be voted on in the council may be brought forth by any council member or officer. All motions put forward on the floor of the council chamber will be announced in the room directly outside the door of the council chamber, when people are present to hear the announcement. All voting results will be announced in the same manner.
 
 ### 4. General Meetings
 
@@ -136,9 +115,11 @@ Three officers and a voting body, otherwise known as the Council, govern the Ord
 
 All of the officer positions are appointed by their predecessor, and ratified by the council by majority vote. The council may in some instances refuse the appointment of the nominated successor. If such a case occurs they will convene and appoint an officer based on majority rule. If an officer is removed by vote of the council, that position shall be voted upon by the council and a successor appointed by majority vote.
 
+In certain situations it may become necessary to take a vote of "No Confidence" against an officer and remove him or her from the position. If this occurs, the council and remaining officers will meet to appoint a new officer to the vacant position. Otherwise there are no term limits on office; the position is held until the officer resigns or is voted out of office.
+
 ### 1. Speaker
 
-The Speaker's position is obtained through nomination and appointment of a predecessor. The speaker of the Order is the person who deals one on one with the Administrator of Orders. The Speaker speaks for the Order and has the authority to make decisions on behalf of the Order when dealing with the Administrator of Orders. When a Council of the Orders is held with the Provincial Administrator of Orders, or other government officials, the Speaker of the Order will be the individual who attends, representing his or her Order.
+The Speaker's position is obtained through nomination and appointment of a predecessor. The Speaker of the Order is the person who deals one on one with the Administrator of Orders. The Speaker speaks for the Order and has the authority to make decisions on behalf of the Order when dealing with the Administrator of Orders. When a Council of the Orders is held with the Provincial Administrator of Orders, or other government officials, the Speaker of the Order will be the individual who attends, representing his or her Order.
 
 The Speaker has sole authority to negotiate treaties with other entities, which must then be approved by the council. This includes but is not limited to, all declarations of war, cease fires, allegiances etc.
 
@@ -150,8 +131,6 @@ The Speaker is the officer of the Order that presides over official swearing in 
 
 In the event a council cannot convene enough of a majority to fill its seats, the Speaker of the Order will appoint members until a majority of the seats have been filled.
 
-In certain situations it may become necessary to take a vote of "No Confidence" against the Speaker and remove him or her from the position. If this occurs, the Council will appoint a majority-approved Speaker. Otherwise there are no term limits on the Speaker's office, the Speaker position is held for life or until the Speaker resigns or is voted out of office or become inactive for a period of 6 months.
-
 ### 2. Vice Speaker
 
 The Vice Speaker's position is obtained through nomination and appointment of a predecessor. The office of Vice Speaker will be considered the second point of contact for the Provincial Administrator of Orders in the event the Speaker cannot be contacted. The Vice Speaker will be the individual who attends provincial Councils of the Orders when the Speaker is not available.
@@ -160,9 +139,7 @@ They will monitor all political and provincial information and intelligence. The
 
 During states of war the Vice Speaker is directly responsible for organizing the combat efforts of the Apostles. During times of non-conflict the Vice Speaker works primarily as a recruiter and personal relations specialist.
 
-It is the Vice Speaker's responsibility to understand the Charter, Bylaws, and possible amendments. It is the duty of the Vice Speaker to support the Speaker in helping with the organization of the order.
-
-In certain situations it may become necessary to take a vote of "No Confidence" against the Vice Speaker and remove him or her from the position. If this occurs, the Council and Speaker will meet to appoint a new Vice Speaker. Otherwise there are no term limits on the Vice Speaker's office: the Vice Speaker position is held for life or until the Vice Speaker resigns or is voted out of Office or become inactive for a period of 6 months.
+It is the Vice Speaker's responsibility to understand the Charter, Bylaws, and possible amendments. It is the duty of the Vice Speaker to support the Speaker in helping with the organization of the Order.
 
 ### 3. Treasurer
 
@@ -170,31 +147,29 @@ The Treasurer's position is obtained through nomination and appointment of a pre
 
 The Treasurer is responsible for ensuring that all debts incurred by the Apostles are paid in a timely manner, including but not limited to all land/building leases, entertainment expenses, and other sundries. The Treasurer will have full access to all financial information concerning the Order. It is the responsibility of the office of Treasurer to keep the Speaker, Vice Speaker, and the Council, informed regarding financial matters. Not limited to but including financial default, building funds, and additional chapter house funding. The Treasurer may transfer money between funds, but at no time shall the Treasurer withdraw the Order's money into hard currency. The Treasurer will keep books pertaining to dues owed, and outstanding loans. The Treasurer is responsible for reporting members who have remained delinquent in their payments for more than 3 months and recommending punishments up to and including dismissal from the apostles.
 
-In certain situations it may become necessary to take a vote of "No Confidence" against the Treasurer and remove him or her from the position. If this occurs, the Council, Vice Speaker, and Speaker will meet to appoint a new Treasurer or become inactive for a period of 6 months.
-
 ## V. Council Members
 
-The Council shall consist of 5-10 seats, which are filled, based on membership numbers and qualified applicants. It shall be considered the governing body of the Order. At least 5 Council seats must be filled at all times.
+The council shall consist of 5-10 seats, which are filled, based on membership numbers and qualified applicants. It shall be considered the governing body of the Order. At least 5 Council seats must be filled at all times.
 
-No officer of the Order may sit on the Council while they hold office. The vacating council member may recommend their replacement for the Council but such replacement must be approved by a majority of remaining council members. Otherwise a qualified applicant may be chosen and voted on by remaining council members.
+No officer of the Order may sit on the council while they hold office. The vacating council member may recommend their replacement for the council but such replacement must be approved by a majority of remaining council members. Otherwise a qualified applicant may be chosen and voted on by remaining council members.
 
-Any Council member voted into office will immediately vacate his or her seat, with the option of being able to recommend his or her replacement.
+Any council member voted into office will immediately vacate his or her seat, with the option of being able to recommend his or her replacement.
 
-In the event that a council member has missed 4 consecutive council meetings, without written consent from the Officers, the remaining council members may choose to vote that seat vacant, and vote in a replacement member.
+In the event that a council member has missed 4 consecutive council meetings, without written consent from the officers, the remaining council members may choose to vote that seat vacant, and vote in a replacement member.
 
 It is the responsibility of the council to allow the Speaker, Vice Speaker, and Treasurer to submit reports and motions to the council regarding official Apostle business.
 
-Counselors will have the authority and responsibility of voting in the Officers of the Order. The Council will have the authority and responsibility of voting in new members or voting out existing members.
+Council members will have the authority and responsibility of voting in the officers of the Order. The council will have the authority and responsibility of voting in new members or voting out existing members.
 
-The Council will have the authority to amend the Charter and by-laws with a majority vote.
+The council will have the authority to amend the Charter and by-laws with a majority vote.
 
-The Council and Officers have the authority to set required monthly tasks and are responsible for the planning and formation of events; the purpose of which is to recruit new members, foster good will, further the goals of the Order, or raise revenue to offset dues.
+The council and officers have the authority to set required monthly tasks and are responsible for the planning and formation of events; the purpose of which is to recruit new members, foster good will, further the goals of the Order, or raise revenue to offset dues.
 
-The Council will have the authority and responsibility of setting the dues the members are required to pay.
+The council will have the authority and responsibility of setting the dues the members are required to pay.
 
-In certain situations it may become necessary to take a vote of "No Confidence" against a Counselor and remove him or her from the position. If this occurs, the remaining Council and Officers will meet to appoint a new council member.
+In certain situations it may become necessary to take a vote of "No Confidence" against a council member and remove him or her from the position. If this occurs, the remaining council and officers will meet to appoint a new council member.
 
-There are no term limits on the Counselors, a council position is held for life or until the Counselor in question resigns or is voted out of office. In the event a council member cannot be contacted, and has missed four consecutive council meetings, the remaining council may vote that council member's seat vacant, and vote in a replacement member.
+There are no term limits on the council members, a council position is held for life or until the Counselor in question resigns or is voted out of office. In the event a council member cannot be contacted, and has missed four consecutive council meetings, the remaining council may vote that council member's seat vacant, and vote in a replacement member.
 
 ## VI. Council Seat Job Description and duties
 
@@ -204,13 +179,11 @@ There are no term limits on the Counselors, a council position is held for life 
 4. Wolf Pack Council - This person is responsible for recruiting new members, presenting them to the council, and the scheduling and running of recruiting events. He or she is also to act as public relations and will keep tabs on important events around the realms. He or she is required to submit and host at least one event bimonthly.
 5. Council Lead - This person is responsible for documenting all meetings. He or she will oversee the council and run the council meeting. This person will also be the one to call a vote when needed. He or she will be familiar with the charter and make sure the council is following the charter. If a dispute develops between officers, the council lead will mediate a open discussion to try to resolve the dispute.
 
-## VII. Subofficers
-
-Council members and officers have the option to form distinct subdivisions within the Apostles. Subdivisions are approved by council vote. After the formation of subdivision, officers and counselors may appoint Sub-officers to help develop and carry out the subdivision's functions. Sub-officers are governed by and subject to the same rules and guidelines set for council members.
-
-## VII. Subdivisions
+## VII. Subdivisions and Subofficers
 
 Subdivisions are formed for the purpose of expanding the influences and prestige of the Apostles. Each subdivision is given a name suited to the nature of its existence.
+
+Council members and officers have the option to form distinct subdivisions within the Apostles. Subdivisions are approved by council vote. After the formation of subdivision, officers and counselors may appoint Sub-officers to help develop and carry out the subdivision's functions. Sub-officers are governed by and subject to the same rules and guidelines set for council members.
 
 The Wolfpack as a subdivision of the Apostles is responsible for inter-provincial diplomatic and public relations, as well as the bulk of new member recruitment. Specific duties of the Wolfpack members may include holding recruitment events, interviewing new recruits, and attending allied organization events.
 
@@ -222,11 +195,11 @@ The Attendants as a subdivision of the Apostles are responsible for tactical sup
 
 ## VIII. Admissions Procedures
 
-An applicant seeking membership in the Order of Apostles must fill out the Apostles application located in the provincial Administrator of Orders office located in each of the major cities of Elanthia or at https://sites.google.com/site/theapostlesorder/home. After they have submitted their application they will be reviewed by the council. The council will then vote on whether to accept or deny the applicant recruit status and assign a mentor. The assigned mentor will notify the applicant upon acceptance as a recruit, if assigned mentor can not make contact then Wolfpack lead will need to make contact.. Each recruit will be given a the Necromancye Test. Upon passing this test, the recruit period will begin. The recruit period will last a minimum of 30 days. During that time, recruits will work with their mentors to better understand the Order. After 30 days, the mentor will present  the recruit to the council for approval. The applicant must tell the council briefly why they want to become a member of the Apostles and what contributions they wish to offer the Apostles. The mentor should also be prepared to speak about their interactions with the recruit, and give their recommendation. The Council will then vote on said recruit, who, upon acceptance, will be formally sworn in by the Speaker.
+An applicant seeking membership in the Order of Apostles must fill out the Apostles application located in the provincial Administrator of Orders office located in each of the major cities of Elanthia or at https://sites.google.com/site/theapostlesorder/home. After they have submitted their application it will be reviewed by the council. The council will then vote on whether to accept or deny the applicant recruit status and assign a mentor. The assigned mentor will notify the applicant upon acceptance as a recruit, if assigned mentor can not make contact then Wolfpack lead will need to make contact. Each recruit will be given a Necromancer Test. Upon passing this test, the recruit period will begin. The recruit period will last a minimum of 30 days. During that time, recruits will work with their mentors to better understand the Order. After 30 days, the mentor will present  the recruit to the council for approval. The applicant must tell the council briefly why they want to become a member of the Apostles and what contributions they wish to offer the Apostles. The mentor should also be prepared to speak about their interactions with the recruit, and give their recommendation. The council will then vote on said recruit, who, upon acceptance, will be formally sworn in by the Speaker.
 
-Mentors and Recruits must make an effort to contact each other. Arranging meetings is the responsibility of both the mentor and the recruit. Failure to adhere to this guideline inhibits the recruit and the mentor, as recruits will not be able to learn about the order and what is required of the order and mentors can not get a firm understanding of the recruit for the council.
+Mentors and recruits must make an effort to contact each other. Arranging meetings is the responsibility of both the mentor and the recruit. Failure to adhere to this guideline inhibits the recruit and the mentor, as recruits will not be able to learn about the order and what is required of the order and mentors can not get a firm understanding of the recruit for the council.
 
-Should the recruit fail to make an effort to connect with his/her mentor, it is possible that a “NO” vote will result for the recruit joining.
+Should the recruit fail to make an effort to connect with his/her mentor, it is possible that a "NO" vote will result for the recruit joining.
 
 Should the mentor fail to make an effort, he/she can be removed from mentoring recruits, either on a temporary or permanent basis, depending on previous occurrences.
 
@@ -234,7 +207,7 @@ Should the mentor fail to make an effort, he/she can be removed from mentoring r
 
 A. First and foremost, all members shall always epitomize the values of the Order, and adhere to all governing laws of the province they are currently in. If a member is consistently breaking provincial laws, or behaving in a manner unseemly for a member of the Apostles, he or she will be subject to varying levels of disciplinary action.
 
-B. The Speaker will be responsible for enforcing member disciplinary procedures, unless the Speaker is the subject for disciplinary procedures, in which case the council members will decide on the Speaker’s disciplinary action by council discussion and vote. Disciplinary action may be initiated when any member breaks the Apostle bylaws, or as otherwise noted in the bylaws.
+B. The Speaker will be responsible for enforcing member disciplinary procedures, unless the Speaker is the subject for disciplinary procedures, in which case the council members will decide on the Speaker's disciplinary action by council discussion and vote. Disciplinary action may be initiated when any member breaks the Apostle bylaws, or as otherwise noted in the bylaws.
 
 C. Disciplinary action consists of three steps:
 
@@ -242,7 +215,7 @@ C. Disciplinary action consists of three steps:
 
 2. An official written warning and/or revocation of privileges such as attendance at Order functions etc.
 
-3. The Speaker, Vice Speaker, and Council Lead  may submit an offending member to the council for a vote on terminating that person’s membership. This vote will not occur until at least one week past the offending event or behavior, so no rash decisions will be made. The request for termination can be  withdrawn during this time period.
+3. The Speaker, Vice Speaker, and Council Lead  may submit an offending member to the council for a vote on terminating that personb s membership. This vote will not occur until at least one week past the offending event or behavior, so no rash decisions will be made. The request for termination can be  withdrawn during this time period.
 
   Additional measures can be taken along with any of these steps, if deemed necessary. Once a member has their membership revoked they are expected to repay any outstanding debts to the Order or return or replace any borrowed Order property.
 
