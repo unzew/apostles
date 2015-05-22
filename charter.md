@@ -156,9 +156,13 @@ It is the Vice Speaker's responsibility to understand the Charter, Bylaws, and p
 
 ### 3. Treasurer
 
-The Treasurer's position is obtained through nomination and appointment of a predecessor. There are no term limits on the Treasurer's office, the Treasurer position is held for life or until the Treasurer resigns or is voted out of office.
+The Treasurer's position is obtained through nomination and appointment of a predecessor. There are no term limits on the Treasurer's office, the Treasurer position is held until the Treasurer resigns or is voted out of office.
 
-The Treasurer is responsible for ensuring that all debts incurred by the Apostles are paid in a timely manner, including but not limited to all land/building leases, entertainment expenses, and other sundries. The Treasurer will have full access to all financial information concerning the Order. It is the responsibility of the office of Treasurer to keep the Speaker, Vice Speaker, and the Council, informed regarding financial matters. Not limited to but including financial default, building funds, and additional chapter house funding. The Treasurer may transfer money between funds, but at no time shall the Treasurer withdraw the Order's money into hard currency. The Treasurer will keep books pertaining to dues owed, and outstanding loans. The Treasurer is responsible for reporting members who have remained delinquent in their payments for more than 3 months and recommending punishments up to and including dismissal from the apostles.
+The Treasurer is responsible for ensuring that all debts incurred by the Apostles are paid in a timely manner, including but not limited to all land/building leases, entertainment expenses, and other sundries. The Treasurer will have full access to all financial information concerning the Order.
+
+It is the responsibility of the office of Treasurer to keep the Order informed regarding financial matters by providing a monthly report at the General meeting. This report will cover the balances, monthly income, and expenditures of each Order account. The Treasurer may transfer money between Order funds, but at no time shall the Treasurer withdraw the Order's money into hard currency except for payment of debt.
+
+The Treasurer will keep books pertaining to all fund balances, fund activity, any dues owed, and outstanding loans. The Treasurer is responsible for reporting members who have remained delinquent in their payments for more than three months and recommending punishments up to and including dismissal from the Apostles. The past three months of books should be available to the Apostles' membership.
 
 ## V. Council Members
 
