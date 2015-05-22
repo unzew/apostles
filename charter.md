@@ -156,7 +156,9 @@ They will monitor all political and provincial information and intelligence. The
 
 During states of war the Vice Speaker is directly responsible for organizing the combat efforts of the Apostles. During times of non-conflict the Vice Speaker works primarily as a recruiter and personal relations specialist.
 
-It is the Vice Speaker's responsibility to understand the Charter, Bylaws, and possible amendments. It is the duty of the Vice Speaker to support the Speaker in helping with the organization of the Order.
+It is the Vice Speaker's responsibility to understand the Charter, by-laws, and possible ammendments. The Vice Speaker will also provide interpreation of the Charter, by-laws, and possible ammendments.
+
+It is the duty of the Vice Speaker to support the Speaker in helping with the organization of the Order.
 
 ### 3. Treasurer
 
@@ -181,6 +183,8 @@ In the event that a council member has missed 4 consecutive council meetings, wi
 It is the responsibility of the council to allow the Speaker, Vice Speaker, and Treasurer to submit reports and motions to the council regarding official Apostle business.
 
 Council members will have the authority and responsibility of voting in the officers of the Order. The council will have the authority and responsibility of voting in new members or voting out existing members.
+
+It is expected that all council members will be familiar with the Chater and by-laws, follow them at all times, and be prepared to answer membership questions.
 
 The council will have the authority to amend the Charter and by-laws with a majority vote.
 
@@ -226,13 +230,13 @@ Should the mentor fail to make an effort to contact the recruit, he/she will rec
 
 ## IX: Disciplinary Actions
 
-The Speaker will be responsible for enforcing and communicating member disciplinary procedures, unless the Speaker is the subject for disciplinary procedures, in which case the Council Lead will communicate andy disciplinary action decided by council vote. Disciplinary action may be initiated when any member breaks the Apostle bylaws, or as otherwise noted in the bylaws.
-
 Discplinary action will be enforced as follows:
-* A first written warning handed down Speaker and/or Council Lead.
+* A first written warning handed down by the Speaker and/or Council Lead.
 * A second written warning may be accompanied by revocation of privileges (such as attendance at Order functions, etc). It is up to the Speaker to decide which, if any, privileges are revoked.
 * After a third written warning, the member may also be submitted to council for a vote on loss of membership by an officer or Council Lead. The vote will not occur before one week from the offending event or behavior, in order to prevent rash decisions will be made. The request for termination can be withdrawn during this time period.
 * Council members and officers shall be held to a higher standard, and will be automatically removed from their position after a second warning and must be reinstated by a council vote. Note that council mebmers and officers may still be removed through a vote of "No confidence" without any written warnings.
+
+The Speaker will be responsible for enforcing and communicating member disciplinary procedures, unless the Speaker is the subject for disciplinary procedures, in which case the Council Lead will communicate andy disciplinary action decided by council vote. Disciplinary action may be initiated when any member breaks the Apostle bylaws, or as otherwise noted in the bylaws.
 
 ## X. Closing
 
