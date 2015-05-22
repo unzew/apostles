@@ -215,7 +215,7 @@ C. Disciplinary action consists of three steps:
 
 2. An official written warning and/or revocation of privileges such as attendance at Order functions etc.
 
-3. The Speaker, Vice Speaker, and Council Lead  may submit an offending member to the council for a vote on terminating that personb s membership. This vote will not occur until at least one week past the offending event or behavior, so no rash decisions will be made. The request for termination can be  withdrawn during this time period.
+3. The Speaker, Vice Speaker, and Council Lead  may submit an offending member to the council for a vote on terminating that person's membership. This vote will not occur until at least one week past the offending event or behavior, so no rash decisions will be made. The request for termination can be  withdrawn during this time period.
 
   Additional measures can be taken along with any of these steps, if deemed necessary. Once a member has their membership revoked they are expected to repay any outstanding debts to the Order or return or replace any borrowed Order property.
 
