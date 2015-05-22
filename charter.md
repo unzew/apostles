@@ -95,9 +95,20 @@ Once a meeting is called to order, all actions and talking should be stopped. Wh
 
 ### 3. Council Meetings
 
-The Order is required to hold an official council meeting every two weeks per order of the provincial government. These meetings will take place on the first and third Thursdays of each month. Meetings will begin with a call to order by the Speaker, Council Lead, or assigned representative, after which will follow petitions from the Vice Speaker, Treasurer, council members, and finally members, in that order. Immediately following the reading of petitions, all non-council members must vacate the council area to allow for discussion and voting by the council. All discussions and interactions made in the council meeting between all officers and council members will remain private from all non-council members in and out of character.
+The Order is required to hold an official council meeting every two weeks per order of the provincial government. These meetings will take place on the first and third Sunday of each month, unless a rescheduled meeting time has been posted to the membership three days prior.
 
-A council meeting will be declared official when convened in the council chambers with at least a majority (minimum 3) of its members present. Council meetings will be held in private. Council meetings will generally be open to officers and council, though at the request of the council, officers may be asked to step out of the room to facilitate open discussion (and may return as soon as closed discussion is over). Officers are not allowed to participate in official votes. Council votes will be open and use a yes, no, or abstain vote.  In certain cases, the Council may have a blind vote that keeps each members vote secret. A neutral party will need to be there to accept and tally the results of that vote. Motions to be voted on in the council may be brought forth by any council member or officer. All motions put forward on the floor of the council chamber will be announced in the room directly outside the door of the council chamber, when people are present to hear the announcement. All voting results will be announced in the same manner.
+A council meeting will be declared official when convened in the council chambers with at least three current council members present. Meetings will begin with a call to order by the Speaker, or assigned representative, after which will follow petitions from the officers, council members, and finally members, in that order. Immediately following the reading of petitions, a discussion of agenda items will be facilitated by the Council Lead.
+
+Motions to be voted on in the council may be brought forth by any council member or officer. If a motion seconded by another council member, the issue will be brought to a vote (see section II article 5).
+
+Council meetings will generally be open to membership, though at the request of the council, members and/or officers may be asked to step out of the council chambers to facilitate open discussion of agenda items or voting on motions.
+
+Meeting minutes shall be posted to the Apostles' membership within one week following the Council meeting. The meetings minutes will include, at a minimum:
+* a list of all present for the meeting
+* the petitions brought forward during the meeting
+* agenda items and highlights of discussion
+* the motions brought forth by the council and officers
+* the result of the vote by council for each motion
 
 ### 4. General Meetings
 
@@ -105,7 +116,11 @@ A general meeting will be called twice per month. Attendance at one monthly meet
 
 ### 5. Voting
 
-There are only three possible votes: yes, no, or abstain. A majority of yes votes means the motion is carried. A majority of no votes means the motion failed. If there is no majority vote there is a declared NO VOTE situation and will be re-voted on at a later time. A majority is defined as more than half of the convened council.
+Only council members are allowed to participate in official votes. There are only three possible votes: yes, no, or abstain. A majority of yes votes means the motion is carried. A majority of no votes means the motion failed. If there is no majority vote there is a declared NO VOTE situation and will be re-voted on at a later time. A majority is defined as more than half of the convened council.
+
+In certain cases, the council may have a blind vote that keeps each members vote secret. A neutral party will need to be there to accept and tally the results of that vote.
+
+Following voting, all results will be announced to awaiting members and officers in the next room, immediately outside the council chambers.
 
 ## III. Definition of Authority
 
@@ -149,7 +164,7 @@ The Treasurer is responsible for ensuring that all debts incurred by the Apostle
 
 ## V. Council Members
 
-The council shall consist of 5-10 seats, which are filled, based on membership numbers and qualified applicants. It shall be considered the governing body of the Order. At least 5 Council seats must be filled at all times.
+The council shall consist of five to ten seats, which are filled, based on membership numbers and qualified applicants. It shall be considered the governing body of the Order. At least five council seats must be filled at all times.
 
 No officer of the Order may sit on the council while they hold office. The vacating council member may recommend their replacement for the council but such replacement must be approved by a majority of remaining council members. Otherwise a qualified applicant may be chosen and voted on by remaining council members.
 
@@ -169,7 +184,7 @@ The council will have the authority and responsibility of setting the dues the m
 
 In certain situations it may become necessary to take a vote of "No Confidence" against a council member and remove him or her from the position. If this occurs, the remaining council and officers will meet to appoint a new council member.
 
-There are no term limits on the council members, a council position is held for life or until the Counselor in question resigns or is voted out of office. In the event a council member cannot be contacted, and has missed four consecutive council meetings, the remaining council may vote that council member's seat vacant, and vote in a replacement member.
+There are no term limits on the council members, a council position is held for life or until the council member in question resigns the position or is voted out of office.
 
 ## VI. Council Seat Job Description and duties
 
