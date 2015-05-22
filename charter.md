@@ -110,7 +110,9 @@ Meeting minutes shall be posted to the Apostles' membership within one week foll
 
 ### 4. General Meetings
 
-A general meeting will be called twice per month. Attendance at one monthly meeting will be mandatory for all members. If a member can not attend he or she must notify an officer or council member. Any issues of importance are to be submitted for the agenda three days prior to the meeting to the Speaker, Vice Speaker, or a Council member. Issues submitted after this time period will be carried over to the following month. The meeting will begin with an opening speech, followed by introduction of new members. Next will be a discussion of the issues on the agenda for that meeting, followed by addresses from the sub-divisions (optional) and a short open forum at the end of the meeting. Open forums are not guaranteed, they will only be held if time permits.
+A general meeting will be called once per month. Any issues of importance are to be submitted for the agenda three days prior to the meeting to the Speaker, Vice Speaker, or a council member. Issues submitted after this time period will be carried over to the following month's meeting. The general meeting will be facilited by the Speaker. The meeting will begin with an opening speech, followed by introduction of new members. A Treasurer's report should follow (see section IV article 3). Next will be a discussion of the issues on the agenda for that meeting, followed by addresses from the sub-divisions (optional) and a short open forum at the end of the meeting. Open forums are not guaranteed, they will only be held if time permits.
+
+A meeting log from the General meeting will be posted to the Apostles' membership within one week following the General meeting.
 
 ### 5. Voting
 
