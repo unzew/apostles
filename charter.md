@@ -84,8 +84,10 @@ Whether it's dragging, raising, helping equip a young adventurer or giving an ol
 
 Members of the Order of the Apostles remain members so long as they are active within the Order. That said, loss of membership may occur due to the following:
   * a. A member may resign from the Order by turning their pauldron into the Speaker or Vice Speaker.
-  * b. If a member is found guilty of violating any of the rules defined in section I of the By-Laws, they will receive a written warning. After a second, and each subsequent, written warning, the council may vote to remove a member from the Order.
+  * b. After the third and each subsequent written warning the council may vote to remove a member from the Order (see section IX article 2).
   * c. A member may be removed from the Order by a GM for any reason.
+
+Individuals are expected to repay any outstanding debts to the Order or return or replace any borrowed Order property upon loss of membership.
 
 ### 2. Meetings Etiquette
 
@@ -214,31 +216,23 @@ The Attendants as a subdivision of the Apostles are responsible for tactical sup
 
 ## VIII. Admissions Procedures
 
-An applicant seeking membership in the Order of Apostles must fill out the Apostles application located in the provincial Administrator of Orders office located in each of the major cities of Elanthia or at https://sites.google.com/site/theapostlesorder/home. After they have submitted their application it will be reviewed by the council. The council will then vote on whether to accept or deny the applicant recruit status and assign a mentor. The assigned mentor will notify the applicant upon acceptance as a recruit, if assigned mentor can not make contact then Wolfpack lead will need to make contact. Each recruit will be given a Necromancer Test. Upon passing this test, the recruit period will begin. The recruit period will last a minimum of 30 days. During that time, recruits will work with their mentors to better understand the Order. After 30 days, the mentor will present  the recruit to the council for approval. The applicant must tell the council briefly why they want to become a member of the Apostles and what contributions they wish to offer the Apostles. The mentor should also be prepared to speak about their interactions with the recruit, and give their recommendation. The council will then vote on said recruit, who, upon acceptance, will be formally sworn in by the Speaker.
+Any applicant seeking membership in the Order of Apostles must fill out the Apostles application located at https://sites.google.com/site/theapostlesorder/home. After they have submitted their application it will be reviewed by the council at the next council meeting. The council will then vote on whether to accept or deny the applicant recruit status and assign a mentor. The assigned mentor will notify the applicant upon acceptance as a recruit, if the assigned mentor can not make contact within seven days, then it will become the responsibility of the Wolfpack lead to make contact. Each recruit will be given a Necromancer Test by their mentor. Upon passing this test, the recruitment period will begin. The recruitment period will last a minimum of 30 days. During that time, recruits will work with their mentors to better understand the Order, meet other members, and become familiar with the Order's charter and bylaws. After 30 days, the mentor will make a recommnedation to the council on whether or not to promote the recruit to full member. The recommendation must include (1) their interactions with the recruit, (2) why the recruit wishes to become a member of the Apostles and (3) what contributions they wish to offer the Apostles. The council will then vote on said recruit, who, upon acceptance, will be formally sworn in by the Speaker.
 
 Mentors and recruits must make an effort to contact each other. Arranging meetings is the responsibility of both the mentor and the recruit. Failure to adhere to this guideline inhibits the recruit and the mentor, as recruits will not be able to learn about the order and what is required of the order and mentors can not get a firm understanding of the recruit for the council.
 
-Should the recruit fail to make an effort to connect with his/her mentor, it is possible that a "NO" vote will result for the recruit joining.
+Should the recruit fail to connect with his/her mentor or the Wolfpack lead within 30 days, the mentor will recommend the recruit not be promoted to full member.
 
-Should the mentor fail to make an effort, he/she can be removed from mentoring recruits, either on a temporary or permanent basis, depending on previous occurrences.
+Should the mentor fail to make an effort to contact the recruit, he/she will receive a written warning.
 
 ## IX: Disciplinary Actions
 
-A. First and foremost, all members shall always epitomize the values of the Order, and adhere to all governing laws of the province they are currently in. If a member is consistently breaking provincial laws, or behaving in a manner unseemly for a member of the Apostles, he or she will be subject to varying levels of disciplinary action.
+The Speaker will be responsible for enforcing and communicating member disciplinary procedures, unless the Speaker is the subject for disciplinary procedures, in which case the Council Lead will communicate andy disciplinary action decided by council vote. Disciplinary action may be initiated when any member breaks the Apostle bylaws, or as otherwise noted in the bylaws.
 
-B. The Speaker will be responsible for enforcing member disciplinary procedures, unless the Speaker is the subject for disciplinary procedures, in which case the council members will decide on the Speaker's disciplinary action by council discussion and vote. Disciplinary action may be initiated when any member breaks the Apostle bylaws, or as otherwise noted in the bylaws.
-
-C. Disciplinary action consists of three steps:
-
-1. An official verbal warning handed down by Officers or a Council member..
-
-2. An official written warning and/or revocation of privileges such as attendance at Order functions etc.
-
-3. The Speaker, Vice Speaker, and Council Lead  may submit an offending member to the council for a vote on terminating that person's membership. This vote will not occur until at least one week past the offending event or behavior, so no rash decisions will be made. The request for termination can be  withdrawn during this time period.
-
-  Additional measures can be taken along with any of these steps, if deemed necessary. Once a member has their membership revoked they are expected to repay any outstanding debts to the Order or return or replace any borrowed Order property.
-
-4. Council members and officers subject to disciplinary action will forgo previous three rules and will have a 1 write up then grounds for removal, although serious offenses can result in a motion for no confidence vote.
+Discplinary action will be enforced as follows:
+* A first written warning handed down Speaker and/or Council Lead.
+* A second written warning may be accompanied by revocation of privileges (such as attendance at Order functions, etc). It is up to the Speaker to decide which, if any, privileges are revoked.
+* After a third written warning, the member may also be submitted to council for a vote on loss of membership by an officer or Council Lead. The vote will not occur before one week from the offending event or behavior, in order to prevent rash decisions will be made. The request for termination can be withdrawn during this time period.
+* Council members and officers shall be held to a higher standard, and will be automatically removed from their position after a second warning and must be reinstated by a council vote. Note that council mebmers and officers may still be removed through a vote of "No confidence" without any written warnings.
 
 ## X. Closing
 
