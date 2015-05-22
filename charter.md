@@ -60,7 +60,7 @@ Whether it's dragging, raising, helping equip a young adventurer or giving an ol
   * e. Fundraising events
   * f. Recruiting events
 
-  Members are encouraged to check the following events calendars often: 
+  All official Order activities will be posted in the following locations:
   * the [DragonRealms Event Calendar](http://forums.play.net/calendar?game=dragonrealms), 
   * the [Apostles Event Calendar](https://sites.google.com/site/theapostlesorder/calendar), 
   * and in-game `NEWS 4 10`
@@ -82,12 +82,10 @@ Whether it's dragging, raising, helping equip a young adventurer or giving an ol
 
 ### 1. Loss of Membership
 
-Members of the Order of the Apostles are members for life. However, the following exceptions can result in loss of membership in the Order.
-  * a. Repeated failure to attended activities without proper notification.
-  * b. Breaking of the aforementioned rules.
-  * c. Voluntary resignation.
-
-**note** If a member is found guilty of the above, they will receive one verbal warning and  one written warning, after which the council reserves the right to repeal membership by a vote of the majority.
+Members of the Order of the Apostles remain members so long as they are active within the Order. That said, loss of membership may occur due to the following:
+  * a. A member may resign from the Order by turning their pauldron into the Speaker or Vice Speaker.
+  * b. If a member is found guilty of violating any of the rules defined in section I of the By-Laws, they will receive a written warning. After a second, and each subsequent, written warning, the council may vote to remove a member from the Order.
+  * c. A member may be removed from the Order by a GM for any reason.
 
 ### 2. Meetings Etiquette
 
@@ -116,7 +114,7 @@ A general meeting will be called twice per month. Attendance at one monthly meet
 
 ### 5. Voting
 
-Only council members are allowed to participate in official votes. There are only three possible votes: yes, no, or abstain. A majority of yes votes means the motion is carried. A majority of no votes means the motion failed. If there is no majority vote there is a declared NO VOTE situation and will be re-voted on at a later time. A majority is defined as more than half of the convened council.
+Only council members are allowed to participate in official votes. There are only three possible votes: yes, no, or abstain. A majority of yes votes means the motion is carried. A majority of no votes means the motion failed. If there is no majority vote there is a declared NO VOTE situation and the motion does not pass. A majority is defined as more than half of the convened council.
 
 In certain cases, the council may have a blind vote that keeps each members vote secret. A neutral party will need to be there to accept and tally the results of that vote.
 
