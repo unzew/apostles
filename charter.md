@@ -132,7 +132,7 @@ Three officers and a voting body, otherwise known as the Council, govern the Ord
 
 All of the officer positions are appointed by their predecessor, and ratified by the council by majority vote. The council may in some instances refuse the appointment of the nominated successor. If such a case occurs they will convene and appoint an officer based on majority rule. If an officer is removed by vote of the council, that position shall be voted upon by the council and a successor appointed by majority vote.
 
-In certain situations it may become necessary to take a vote of "No Confidence" against an officer and remove him or her from the position. If this occurs, the council and remaining officers will meet to appoint a new officer to the vacant position. Otherwise there are no term limits on office; the position is held until the officer resigns or is voted out of office.
+In certain situations it may become necessary to take a vote of "No Confidence" against an officer and remove him or her from the position. The vote of no confidence shall be handled as a motion during a council meeting. Alternatively, a special meeting may be called by the membership during which an officer can be removed by a majority vote of the entire membership excluding the council and officers. If this occurs, the council and remaining officers will meet to appoint a new officer to the vacant position. Otherwise there are no term limits on office; the position is held until the officer resigns or is voted out of office.
 
 ### 1. Speaker
 
@@ -192,7 +192,7 @@ The council and officers have the authority to set required monthly tasks and ar
 
 The council will have the authority and responsibility of setting the dues the members are required to pay.
 
-In certain situations it may become necessary to take a vote of "No Confidence" against a council member and remove him or her from the position. If this occurs, the remaining council and officers will meet to appoint a new council member.
+In certain situations it may become necessary to take a vote of "No Confidence" against a council member and remove him or her from the position. The vote of no confidence shall be handled as a motion during a council meeting. Alternatively, a special meeting may be called by the membership during which a council member can be removed by a majority vote of the entire membership excluding the council and officers. If this occurs, the remaining council and officers will meet to appoint a new council member.
 
 There are no term limits on the council members, a council position is held for life or until the council member in question resigns the position or is voted out of office.
 
